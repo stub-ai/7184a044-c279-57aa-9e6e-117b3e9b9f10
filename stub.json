@@ -1,0 +1,1 @@
+{"config":{"system_prompt":"","model":"","temperature":0,"top_p":1,"framework":"nextjs-page-tailwind"},"prompts":[{"prompt":"List all equity-related codes similar to ISIN, including their names, descriptions, and the regions or markets they are primarily used in.","md5":"824674a50f7393d7796018404ae87a59"}]}
